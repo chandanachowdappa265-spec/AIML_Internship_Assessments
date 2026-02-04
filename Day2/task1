@@ -1,0 +1,6 @@
+item_name = input("Enter item name: ")
+quantity = int(input("Enter quantity: "))
+price = float(input("Enter price: "))
+in_stock = input("Is item available (True/False): ")
+
+print("Item:", item_name, "Qty:", quantity, "Price:", price, "Available:", in_stock)
