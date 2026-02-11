@@ -1,0 +1,5 @@
+Name: Chandu, Daily Goal: Learn Python file handling
+Name: Chandu, Daily Goal: Revise AI concepts
+Name: Chandu, Daily Goal: Practice ML basics
+
+
